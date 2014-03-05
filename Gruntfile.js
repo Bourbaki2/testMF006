@@ -283,6 +283,7 @@ module.exports = function (grunt) {
          },
          pages: {
             options: {
+               commit: true,
                remote: 'git@github.com:Bourbaki2/testMF006.git',
                branch: 'master'
             }
