@@ -4,7 +4,7 @@ angular.module('yoAngular006App')
   .provider('provider001', function () {
 
     // Private variables
-    var salutation = 'Hello';
+    var salutation = 'Bonjour la planète!!';
 
     // Private constructor
     function Greeter() {
