@@ -1,5 +1,7 @@
 'use strict';
 
+// 3e écriture Branche : develop
+
 describe('Service: provider001', function () {
 
   // load the service's module
