@@ -1,6 +1,6 @@
 'use strict';
 
-// Final
+// Final baton
 
 describe('Service: provider001', function () {
 
