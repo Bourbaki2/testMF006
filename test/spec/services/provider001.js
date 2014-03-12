@@ -1,5 +1,7 @@
 'use strict';
 
+// Deuxième écriture
+
 describe('Service: provider001', function () {
 
   // load the service's module
