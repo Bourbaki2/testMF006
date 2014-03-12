@@ -1,10 +1,6 @@
 'use strict';
 
-<<<<<<< HEAD
-// a vérifier
-=======
-// Final baton
->>>>>>> develop2
+// Ceci est OK
 
 describe('Service: provider001', function () {
 
