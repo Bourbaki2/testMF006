@@ -1,6 +1,6 @@
 'use strict';
 
-// Deuxième écriture
+// Final
 
 describe('Service: provider001', function () {
 
